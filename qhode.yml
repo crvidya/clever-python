@@ -5,6 +5,5 @@ python:
 script: python ./test/test_clever.py
 notifications:
   email:
-    recipients:
-      - vidyac.raghav@gmail.com
+    - vidyac.raghav@gmail.com
   campfire: qhode1:99b2845783c6adf698c143927e45d11045c47804@572555 
