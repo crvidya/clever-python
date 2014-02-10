@@ -3,7 +3,6 @@ python:
   - "2.6"
   - "2.7"
 script: python ./test/test_clever.py
-
 notifications:
   campfire: qhode1:99b2845783c6adf698c143927e45d11045c47804@572631
   email: vidya@shippable.com
